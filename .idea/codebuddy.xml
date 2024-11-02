@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodebuddyPersistentProjectState">
+    <option name="additionalOptionsVisible" value="true" />
+    <option name="promptHistory">
+      <list>
+        <option value="como puedo hacer mi app mas escalable" />
+        <option value="me gustan los puntos que me diste ayudame a implementarlos" />
+        <option value="ayudame con el paso 3,4,5 paso a paso" />
+        <option value="dame ejemplos de codigo de como implementarlos" />
+        <option value="vistaConversor" />
+        <option value="dame los metodos para vistaConversor" />
+        <option value="ahora ayudame a implementar las clases faltantes" />
+        <option value="como corro mi codigo?" />
+        <option value="que cambios podria hacer por mi parte para mejorar la aplicacion" />
+        <option value="ayudame con un api para el tipo de cambio" />
+        <option value="por que hay errores en apitipodecambio" />
+        <option value="mis clases se pueden renombrar por ejemplo monedaADO?" />
+        <option value="que nombres tendrian sentido para mis clases" />
+        <option value="si quiero migrar este proyecto a maven como haria" />
+      </list>
+    </option>
+    <option name="selectedModel" value="codebuddy:GPT4o_Mini_V8" />
+  </component>
+</project>
